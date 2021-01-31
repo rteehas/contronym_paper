@@ -1,0 +1,87 @@
+,Bengali2En,Oriya2En,Hindi2En,Nepali2En,Punjabi2En,Gujarati2En,Urdu2En,Tamil2En,Telugu2En,Malayalam2En,Kannada2En,Marathi2En,Sindhi2En
+advocate  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+agriculturist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+aircraft pilot ,he,he,he,he,he,he,he,he,she,she,she,she,she
+artist  ,he,he,she,he,he,he,she,she,she,she,she,she,she
+astronomer  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+attorney  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+audiologist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+banker  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+barber  ,he,she,she,she,she,she,she,she,she,she,she,she,she
+bartender  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+biologist  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+bookkeeper  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+botanist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+builder  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+businessperson  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+butcher  ,he,he,she,he,he,he,she,she,she,she,she,she,she
+carpenter  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+cashier  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+chef  ,he,she,he,he,he,she,she,she,she,she,she,she,she
+chemist  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+clergy advisor ,he,he,he,he,he,he,he,he,she,she,she,she,she
+clinical lab technician,he,he,he,he,he,she,she,he,she,she,she,she,she
+coach  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+developer  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+dietitian  ,he,he,he,he,he,she,they,she,she,she,she,she,she
+ecologist  ,he,he,he,she,he,she,she,she,she,she,she,she,she
+editor  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+electrician  ,he,he,he,he,she,he,she,she,she,she,she,she,she
+EMT specialist ,he,he,he,he,he,he,she,he,she,she,she,she,she
+farmer  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+filmmaker  ,he,he,he,he,he,he,she,he,she,she,she,she,she
+firefighter  ,he,he,he,he,she,it,he,she,she,she,she,she,she
+fisherman  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+flight attendant ,he,he,she,she,he,she,she,she,she,she,she,she,she
+geneticist  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+geologist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+graphic designer ,he,he,he,she,she,she,she,he,she,she,she,she,she
+human resource specialist,he,he,he,he,he,he,he,he,she,she,she,she,she
+immunologist  ,he,he,he,he,he,she,she,she,she,she,she,she,she
+interpreters  ,he,he,he,he,he,she,she,she,her,she,she,she,she
+jeweller  ,she,she,she,he,he,she,she,she,she,she,she,she,she
+lawyer  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+librarian  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+licensed practical nurse,she,she,she,she,she,she,she,she,she,she,she,she,she
+mechanic  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+medical laboratory scientist,he,he,he,he,he,he,he,he,she,she,she,she,she
+meteorologist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+midwife  ,she,she,she,she,she,she,she,she,she,she,she,she,she
+military officer ,he,he,he,he,he,he,he,she,she,she,she,she,she
+nutritionist  ,he,he,he,she,they,he,they,she,she,she,she,she,she
+oceanographer  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+osteopath  ,he,he,he,he,he,it,she,she,she,she,she,she,she
+painter  ,he,he,she,he,he,he,he,she,she,she,she,she,she
+paramedic  ,he,he,he,she,he,it,he,she,she,she,she,she,she
+pathologist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+pharmacologist  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+philosopher  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+photographer  ,he,he,he,he,he,she,she,she,she,she,she,she,she
+physician assistant ,he,she,he,he,he,she,she,he,she,she,she,she,she
+physicist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+pilot  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+plumber  ,he,he,he,she,he,she,she,she,she,she,she,she,she
+politician  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+receptionist  ,he,she,he,she,she,she,that,she,she,she,she,she,she
+registered nurse ,she,she,she,she,she,she,she,she,she,she,she,she,she
+salesman  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+salesperson  ,he,he,he,he,she,she,she,she,she,she,she,she,she
+scientist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+sea captain ,he,he,he,he,he,he,he,she,she,she,she,she,she
+secretary  ,he,he,she,he,she,she,that,she,she,they,she,she,she
+singer  ,he,she,she,he,she,she,she,she,she,she,she,she,she
+solicitor  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+speech pathologist ,he,he,he,he,he,he,he,she,she,she,she,she,she
+speech-language pathologist ,he,he,he,he,he,he,she,she,she,she,she,she,she
+statistician  ,he,he,he,he,that,he,he,she,she,she,she,she,she
+surveyor  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+therapist  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+undertaker  ,he,he,he,he,he,he,he,she,she,she,she,she,she
+urban planner ,he,he,he,he,she,it,she,he,she,she,she,she,she
+videographer  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+virologist  ,he,he,he,he,he,she,he,she,she,she,she,she,she
+visual artist ,he,he,he,he,he,he,she,he,she,she,she,she,she
+waiter  ,he,he,he,he,he,he,she,she,she,she,she,she,she
+web designer ,he,he,he,she,she,she,she,he,she,she,she,she,she
+web developer ,he,he,he,he,he,he,she,he,she,she,she,she,she
+zoologist,he,he,he,he,he,he,she,she,she,she,she,she,she
